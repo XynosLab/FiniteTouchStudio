@@ -1,19 +1,4 @@
-/* -------------------------------------------------------------------------- */
-/*                                 Theme                                      */
-/* -------------------------------------------------------------------------- */
-/* prettier-ignore */
-/* -------------------------------------------------------------------------- */
-/*                                  Utilities                                 */
-/* -------------------------------------------------------------------------- */
-/*-----------------------------------------------
-|   Bootstrap Styles
------------------------------------------------*/
-/*!
- * Bootstrap v5.0.0-alpha1 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --bs-blue: #747DEF;
   --bs-indigo: #6237FF;
@@ -7387,11 +7372,11 @@ fieldset:disabled .btn {
 }
 
 .link-warning {
-  color: #F1A501;
+  color: #1da1f2;
 }
 
 .link-warning:hover, .link-warning:focus {
-  color: #c18401;
+  color: #2fc4f1;
 }
 
 .link-danger {
@@ -19078,6 +19063,22 @@ iframe {
 
 .icon-item#twitter:hover, .icon-item#twitter:focus {
   background-color: #1da1f2;
+}
+
+.icon-item#tiktok {
+  background: #FFFEFE;
+}
+
+.icon-item#tiktok:hover, .icon-item#twitter:focus {
+  background-color: #D42DA3;
+}
+
+.icon-item#pinterest {
+  background: #FFFEFE;
+}
+
+.icon-item#pinterest:hover, .icon-item#twitter:focus {
+  background-color: #ff0000;
 }
 
 .icon-item:hover, .icon-item:focus {
