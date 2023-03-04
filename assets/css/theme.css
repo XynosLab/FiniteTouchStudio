@@ -4833,6 +4833,9 @@ fieldset:disabled .btn {
   font-size: calc(1.26738rem + 0.20859vw);
   white-space: nowrap;
 }
+.img-top {
+  size: relative;
+}
 
 @media (min-width: 1200px) {
   .navbar-brand {
@@ -19070,7 +19073,7 @@ iframe {
 }
 
 .icon-item#tiktok:hover, .icon-item#twitter:focus {
-  background-color: #D42DA3;
+  background-color: #ee1052;
 }
 
 .icon-item#pinterest {
