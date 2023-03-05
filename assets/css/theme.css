@@ -4833,11 +4833,8 @@ fieldset:disabled .btn {
   font-size: calc(1.26738rem + 0.20859vw);
   white-space: nowrap;
 }
-.img-top {
-  size: relative;
-}
 
-@media (min-width: 200px) {
+@media (min-width: 500px) {
   .navbar-brand {
     font-size: 1.42383rem;
   }
