@@ -4837,7 +4837,7 @@ fieldset:disabled .btn {
   size: relative;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 200px) {
   .navbar-brand {
     font-size: 1.42383rem;
   }
